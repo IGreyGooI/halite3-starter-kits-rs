@@ -1,0 +1,11 @@
+[package]
+name = "archon"
+version = "0.1.0"
+authors = ["Kikokushi <s468zhan@edu.uwaterloo.ca>"]
+edition = "2018"
+
+[dependencies]
+lazy_static = "1"
+rand = "0.5"
+num = "0.2.0"
+bitflags = "1.0.4"
